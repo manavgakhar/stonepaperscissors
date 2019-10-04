@@ -1,0 +1,25 @@
+#title{
+	color:pink;
+	resize: 50%;
+}
+#bruh{
+	padding-top: 15px;
+}
+
+body{
+	background-color: black;
+}
+
+img{
+	max-height: 300px;
+}
+
+#score{
+	color:pink;
+}
+#end{
+	color:pink;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 100px;
+}
